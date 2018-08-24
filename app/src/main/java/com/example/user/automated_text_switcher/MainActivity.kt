@@ -1,4 +1,4 @@
-package com.example.user.automated_texts_witcher
+package com.example.user.automated_text_switcher
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
