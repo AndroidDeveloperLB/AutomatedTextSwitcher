@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+  android:id="@+id/textView" style="@style/text_view" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp"
+  android:background="#11ff00ff" android:breakStrategy="balanced" android:ellipsize="end" android:gravity="center" android:maxLines="1" app:autoSizeTextType="uniform"
+  tools:targetApi="m" tools:text="@tools:sample/us_phones"/>

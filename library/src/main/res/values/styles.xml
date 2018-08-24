@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="AutomatedTextSwitcher">
+        <attr name="textLayoutResId" format="reference"/>
+        <attr name="timeBetweenAutoSwitchingInMs" format="integer"/>
+    </declare-styleable>
+</resources>
