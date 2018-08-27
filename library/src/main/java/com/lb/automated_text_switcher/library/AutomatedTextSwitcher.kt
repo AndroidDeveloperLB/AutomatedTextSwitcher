@@ -93,8 +93,8 @@ class AutomatedTextSwitcher : android.widget.TextSwitcher {
             setTextToShow(texts[0], animate)
             return
         }
-        counter = (counter + 1) % textsCount
         setTextToShow(texts[counter], animate)
+        counter = (counter + 1) % textsCount
     }
 
     private fun setTextToShow(text: CharSequence?, animate: Boolean) {
